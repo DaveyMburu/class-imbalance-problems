@@ -12,6 +12,8 @@ You will be able to:
 - Use sampling techniques to address a class imbalance problem within a dataset 
 - Create a visualization of ROC curves and use it to assess a model
 
+# Check the index.ipynb file for my workings
+
 ## Predicting credit card fraud
 
 
